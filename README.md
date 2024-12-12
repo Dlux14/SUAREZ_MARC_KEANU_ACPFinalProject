@@ -20,7 +20,7 @@ QuizMaster is a Python-based quiz application that allows users to create accoun
 
 1. **Clone the repository** (or download the source code):
    ```bash
-[   git clone https://github.com/yourusername/QuizMaster.git](https://github.com/Dlux14/SUAREZ_MARC_KEANU_ACPFinalProject.git)
+(https://github.com/Dlux14/SUAREZ_MARC_KEANU_ACPFinalProject.git)
    cd QuizMaster
 Run the application: Make sure you have Python installed on your system. You can run the application using the following command:
 
